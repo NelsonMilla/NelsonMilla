@@ -9,9 +9,3 @@
 ##  My Content ⌨️✍
   <a href="https://www.youtube.com/channel/UCWWTFbGURlWaHa5uYNuo1-A"><img src="https://img.shields.io/badge/YouTube-MacaoTech-red"></a>
 </p>
-
-
-# Contact Page:
-
-
-![Nelson's github stats](https://github-readme-stats.vercel.app/api?username=nelsonmilla&show_icons=true)
