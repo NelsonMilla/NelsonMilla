@@ -1,12 +1,16 @@
-👋 Hello! I'm Nelson, a passionate full stack developer with expertise in Python Django, React, and Angular. 🚀
+👋 Hello! I’m Nelson, a full stack developer, startup founder, and tech lead with deep expertise in Python Django, React, Next.js, and Angular.
 
-💻 I enjoy building robust and scalable web applications that deliver seamless user experiences. With years of hands-on experience in both backend and frontend development, I thrive on solving complex problems and bringing ideas to life.
+🚀 Over the years, I’ve architected and launched scalable web applications for startups, fintech, and biotech ventures—delivering seamless, high-impact user experiences. My work spans backend, frontend, and cloud infrastructure, from building robust RESTful APIs and secure databases to crafting pixel-perfect UIs and leading end-to-end product development.
 
-🌐 On the backend, I excel in Python and the Django framework. I have a deep understanding of RESTful APIs, database management, and server-side development. I prioritize code quality, maintainability, and security in all my projects.
+🌐 On the backend, I specialize in Python and Django, designing resilient, maintainable architectures and integrating complex data flows. I’m well-versed in database management, API design, authentication, and security best practices. Recently, I’ve also led projects leveraging blockchain (Solana, smart contracts) and cloud platforms like Firebase.
 
-🎨 When it comes to the frontend, I'm well-versed in creating dynamic and interactive user interfaces using React and Angular. I have a strong command of HTML, CSS, and JavaScript, and I leverage modern tools and libraries to build responsive and visually appealing applications.
+🎨 For the frontend, I bring ideas to life using React, Angular, and Next.js—creating dynamic, responsive applications with modern UI/UX patterns. I excel at building user-friendly interfaces that drive engagement, using the latest in JavaScript, TypeScript, HTML, and CSS.
 
-🔧 I believe in the power of collaboration and continuously seek to improve my skills. I'm always exploring new technologies and staying up-to-date with industry trends. I'm also comfortable working in an Agile development environment and thrive in teams that foster innovation and growth.
+🧑‍💻 As a founder and CTO, I thrive in fast-paced startup environments—managing cross-functional teams, iterating on products, and navigating technical, operational, and legal challenges. I enjoy mentoring developers, setting up Agile workflows, and driving innovation from 0 to 1.
+
+🌱 I’m always exploring new technologies and frameworks, from AI to decentralized governance, and I have a strong interest in jurisdiction-as-a-service, smart cities, and next-generation fintech/biotech. I believe in open collaboration, lifelong learning, and building software that makes a difference.
+
+Let’s connect and create something amazing together!
 
 Happy coding! 😄
 
